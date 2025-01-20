@@ -1,0 +1,36 @@
+body {
+    background-color:rgba(241, 238, 235, 0.425);
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
+    color: #333333; /* El color del texto*/ 
+    
+}
+
+
+
+h3{
+    font-size:medium;
+}
+li{
+    font-size:small;
+}
+
+.title{
+color:rgb(32, 128, 128);
+font-family:Georgia, serif;
+font-size:xx-large ;
+}
+.subtitle{
+    font-family:Georgia, serif;
+    font-size:x-large;
+}
+.s_subtitle{
+font-size: large;
+}
+li{
+    font-size:medium;
+}
+
+#end{
+    color:rgb(32, 128, 128);
+}
